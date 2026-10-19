@@ -12,10 +12,16 @@ Sandbox repository: `mcpmark-eval-liuhezi/handover-rehearsal` (public, initializ
 - [x] Draft pull request opened from `docs/handover-refresh` into `main` — "Update the maintainer handover notes" (#3), with a description referencing the notes issue so merging resolves it
 - [x] Copilot automated review requested on the pull request
 - [x] Pull request marked ready for review
-- [ ] Pull request merged into `main`
-- [ ] Notes issue resolved by the merge
-- [ ] Tracker issue closed as completed
-- [ ] Drill log updated after the merge to record the pull request number and the merge
+- [x] Pull request merged into `main`
+- [x] Notes issue resolved by the merge
+- [x] Tracker issue closed as completed
+- [x] Drill log updated after the merge (this update)
+
+## Merge record
+
+- **Pull request:** #3 — "Update the maintainer handover notes"
+- **Outcome:** merged into `main` (merge commit `121af2cd82d66ae1befabad2d544d33c9c42e8b3`)
+- Resolving the merge closed the notes issue #2 as completed; the tracker issue #1 was closed as completed.
 
 ## Housekeeping
 
